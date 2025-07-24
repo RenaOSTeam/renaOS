@@ -5,4 +5,4 @@
 Hi! Welcome to the Github page of renaOS!
 
 # What is renaOS?
-renaOS is a heavily modified Linux distribution for you to have the *best* experience with Linux.
+renaOS is a heavily modified Linux distribution for you to have the *best* experience with Linux
